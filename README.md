@@ -14,7 +14,7 @@ Cài lên xong thì nó như này:
 
 Tải xong rồi cài như bình thường
 
-**Author:** hobasoft.com 
+**Author:** hobasoft.com  
 
 **Inspired from**: https://hocban.vn/trang-tri-tet-cho-website-wordpress-ne-anh-em?fbclid=IwAR3igvRdDxlo567mwgVO7XhuLVO49QZn9goAZC6Mqm8XfU_Crwvg7LsGsfs
 
